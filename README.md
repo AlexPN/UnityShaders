@@ -1,6 +1,6 @@
 These shaders are Unity Shaders
 
-They are my attempts at writing shader code.
+They are my attempts at writing/learning shader code.
 
 
 
